@@ -1,2 +1,2 @@
-# intake-text-only
-A pure text version of INTAKE.
+# resolve-text-demo
+A text adventure game showcasing a sliver of the world of RESOLVE.
